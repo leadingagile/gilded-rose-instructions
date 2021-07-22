@@ -23,3 +23,5 @@ goblin in the corner who will insta-rage and one-shot you as he doesn't believe 
 ownership (you can make the UpdateQuality method and Items property static if you like, we'll cover
 for you).
 
+This is a sample problem, but we want you to treat this like production code.
+We want to see how you work with production code as this is a core part of the work we do.
