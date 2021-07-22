@@ -25,3 +25,5 @@ for you).
 
 This is a sample problem, but we want you to treat this like production code.
 We want to see how you work with production code as this is a core part of the work we do.
+
+Operate as if you have been given enough time to do your best work.
